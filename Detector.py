@@ -8,7 +8,7 @@ hindi_ginati =("१", '२', '३', '४', '५', '६', '७', '८', '९', "�
 
 # Telugu Language
 telugu_achhulu = ('అ','ఆ', 'ఇ' ,'ఈ' ,'ఉ' ,'ఊ', 'ఋ', 'ౠ', 'ఌ', 'ఎ', 'ఏ' ,'ఐ', 'ఒ', 'ఓ' ,'ఔ')
-
+telugu_hallulu = ()
 # Language Sets
 hindi_letters = (hindi_matraem, hindi_svar, hindi_ubayaksar, hindi_vyanjan)
 listofLetters = (hindi_letters)
